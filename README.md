@@ -13,6 +13,7 @@ This project showcases an end-to-end Data Analytics process, from data extractio
 
 ## Dashboard
 
+⁠![Dashboard](Screenshot%202026-05-29%20193302.png)
 
 ## Connect with me
 https://www.linkedin.com/in/minakshi-shukla123
